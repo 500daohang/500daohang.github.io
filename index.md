@@ -139,5 +139,5 @@ footer .footer{padding-bottom:10px}
         <div class="footer">
             <p>客服邮箱：500dhw@gmail.com </p>
             <p>Copyright © 2021 All rights reserved.</p>
-        </div>
+        </div> 
     </footer>
